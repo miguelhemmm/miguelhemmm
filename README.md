@@ -1,9 +1,9 @@
 Hi, Im Miguel Angel Hernandez Melo (Yes, we usually have two names and the second last name is also mandantory in Mexico)
 
 I'm a frontend dev, experienced in <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
-         width="18px" height="18px"/> and it's frameworks <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
-         width="18px" height="18px"/> and <img alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
-         width="18px" height="18px"/>.
+         width="18px" height="18px" class="pointer-events: none"/> and it's frameworks <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
+         width="18px" height="18px" class="pointer-events: none"/> and <img alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
+         width="18px" height="18px" class="pointer-events: none"/>.
          
 Mostly I'll upload my personal projects or projects related to courses that I'm currently doing. I don't post any job related content, just stuff that I made in my free time.
 
