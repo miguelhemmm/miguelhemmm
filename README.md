@@ -21,7 +21,8 @@ You're free to use any design / functionality of my projects, just take my name 
 
 <hr/>
 
-<span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 gKQOXt"><img alt="yellow" src="/badge/-yellow-yellow"></span>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/miguelhemmm?style=social">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/miguelhempit?style=social">
 
 <!---
 miguelhemmm/miguelhemmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
