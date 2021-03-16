@@ -1,6 +1,9 @@
 Hi, Im Miguel Angel Hernandez Melo (Yes, we usually have two names and the second last name is also mandantory in Mexico)
 
-I'm a frontend dev, experienced in javascript and it's frameworks Angular, React and little bit of Vue. Worked with python and flask but it wasn't my thing.
+I'm a frontend dev, experienced in <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
+         width="18px" height="18px"/> and it's frameworks <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
+         width="18px" height="18px"/> and <img alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
+         width="18px" height="18px"/> Worked with python and flask but it wasn't my thing.
 Mostly I'll upload my personal projects or projects related to courses that I'm currently doing. I don't post any job related content, just stuff that I made in my free time.
 
 Here you can find me on 
