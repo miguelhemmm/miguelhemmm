@@ -21,7 +21,7 @@ You're free to use any design / functionality of my projects, just take my name 
 
 <hr/>
 
-<div style="display: flex, justify-content: center " >
+<div style="display: flex, margin: 1rem" >
          <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/miguelhemmm?style=social">
          <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/miguelhempit?style=social">
 <div/>
