@@ -6,11 +6,11 @@ Mostly I'll upload my personal projects or projects related to courses that I'm 
 Here you can find me on 
       <a href="https://www.linkedin.com/in/miguelhem/">
          <img alt="linkedin-icon" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615922261~hmac=11156b2eed143197d8de121f8da0bcab"
-         width="18px" height="18px" target="blank" />
-      </a>.
+         width="18px" height="18px" target="_blank" />
+      </a>
  and   <a href="https://twitter.com/Miguelhemmm">
          <img alt="twitter-icon" src="https://image.flaticon.com/icons/png/512/1384/1384065.png"
-         width="18px" height="18px" target="blank" />
+         width="18px" height="18px" target="_blank" />
       </a>.
 
 You're free to use any design / functionality of my projects, just take my name in consideration. Happy Coding!
