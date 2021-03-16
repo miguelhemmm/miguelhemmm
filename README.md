@@ -10,7 +10,7 @@ Mostly I'll upload my personal projects or projects related to courses that I'm 
 Here you can find me on 
       <a href="https://www.linkedin.com/in/miguelhem/" target="_blank" >
          <img alt="linkedin-icon" src="https://simpleicons.org/icons/linkedin.svg"
-         width="18px" height="18px" />
+         width="18px" height="18px" style="color: white" />
       </a>
  and   <a href="https://twitter.com/Miguelhemmm" target="_blank" >
          <img alt="twitter-icon" src="https://image.flaticon.com/icons/png/512/1384/1384065.png"
