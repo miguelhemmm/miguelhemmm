@@ -5,8 +5,12 @@ Mostly I'll upload my personal projects or projects related to courses that I'm 
 
 You can find me on
       <a href="https://twitter.com/Miguelhemmm">
-         <img alt="twitter-icon" src="https://image.flaticon.com/icons/png/512/174/174857.png"
-         width="40px" height="40px" />
+         <img alt="linkedin-icon" src="https://image.flaticon.com/icons/png/512/174/174857.png"
+         width="20px" height="20px" />
+      </a>
+and   <a href="https://www.linkedin.com/in/miguelhem/">
+         <img alt="twitter-icon" src="https://image.flaticon.com/icons/png/512/1384/1384065.png"
+         width="20px" height="20px" />
       </a>
 
 You're free to use any design / functionality of my projects, just take my name in consideration. Happy Coding!
