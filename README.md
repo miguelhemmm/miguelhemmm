@@ -1,4 +1,4 @@
-Hi, Im Miguel Angel Hernandez Melo (Yes, we usually have two names and the second last name is also mandantory in Mexico)
+Hi, Im Miguel
 
 I'm a frontend dev, experienced in <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
          width="18px" height="18px" class="pointer-events: none"/> and it's frameworks <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
