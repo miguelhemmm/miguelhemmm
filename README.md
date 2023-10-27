@@ -13,8 +13,8 @@ Here you can find me on
          <img alt="linkedin-icon" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
          width="18px" height="18px" />
       </a>
- and   <a href="https://twitter.com/Miguelhemmm" target="_blank" >
-         <img alt="twitter-icon" src="[https://image.flaticon.com/icons/png/512/1384/1384065.png](https://cdn-icons-png.flaticon.com/512/733/733579.png)"
+ and   <a href="https://twitter.com/username_kvothe" target="_blank" >
+         <img alt="twitter-icon" src="https://image.flaticon.com/icons/png/512/1384/1384065.png](https://cdn-icons-png.flaticon.com/512/733/733579.png"
          width="18px" height="18px"/>
       </a>.
 
