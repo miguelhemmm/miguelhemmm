@@ -9,11 +9,11 @@ I'm a frontend dev, experienced in <img alt="react-icon" src="https://cdn.worldv
 Mostly I'll upload my personal projects or projects related to courses that I'm currently doing. I don't post any job related content, just stuff that I made in my free time.
 
 Here you can find me on 
-      <a href="https://www.linkedin.com/in/miguelhem/" target="_blank" >
+      <a href="https://www.linkedin.com/in/miguelhem/" target="_blank"  style="text-decoration: none">
          <img alt="linkedin-icon" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
          width="18px" height="18px" />
       </a>
- and   <a href="https://twitter.com/username_kvothe" target="_blank" >
+ and   <a href="https://twitter.com/username_kvothe" target="_blank" style="text-decoration: none" >
          <img alt="twitter-icon" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
          width="18px" height="18px"/>
       </a>.
