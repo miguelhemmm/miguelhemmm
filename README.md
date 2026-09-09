@@ -1,4 +1,4 @@
-# Hi, I'm Miguel 👋
+# Hi, I'm Miguel
 
 **Senior Full Stack Developer** with 7+ years of experience building web applications end to end: from the UI down to the API.
 
