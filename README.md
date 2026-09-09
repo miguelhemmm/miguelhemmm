@@ -1,34 +1,29 @@
-Hi, Im Miguel
+# Hi, I'm Miguel 👋
 
-I'm a frontend dev, experienced in <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"
-         width="18px" height="18px" class="pointer-events: none"/> and it's frameworks <img alt="angular-icon" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
-         width="18px" height="18px" class="pointer-events: none"/>, <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"
-         width="18px" height="18px" class="pointer-events: none"/> and <img alt="react-icon" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
-         width="18px" height="18px" class="pointer-events: none"/>.
-         
-Mostly I'll upload my personal projects or projects related to courses that I'm currently doing. I don't post any job related content, just stuff that I made in my free time.
+**Senior Full Stack Developer** with 7+ years of experience building web applications end to end: from the UI down to the API.
 
-Here you can find me on 
-      <a href="https://www.linkedin.com/in/miguelhem/" target="_blank"  style="text-decoration: none">
-         <img alt="linkedin-icon" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-         width="18px" height="18px" />
-      </a>
- and   <a href="https://twitter.com/username_kvothe" target="_blank" style="text-decoration: none" >
-         <img alt="twitter-icon" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"
-         width="18px" height="18px"/>
-      </a>.
+- 🖥️ **Frontend:** JavaScript / TypeScript, with React, Angular and Vue
+- ⚙️ **Backend:** Node.js and Express, REST APIs
+- 🤖 **Workflow:** AI-augmented development (Claude Code, Cursor, custom MCP servers, local LLM inference with Ollama)
+- 🌎 Based in México, working remotely | English / Español
 
-You're free to use any design / functionality of my projects, just take my name in consideration. ✨Happy Coding!✨
+### Tech I work with
 
-<hr/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,nodejs,express,html,css,git)](https://skillicons.dev)
 
-<div style="display: flex, margin: 1rem" >
-         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/miguelhemmm?style=social">
-         <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/miguelhempit?style=social">
-<div/>
+### What you'll find here
 
+Mostly personal projects and things I build while taking courses. Nothing job related, just stuff I make in my free time. You're free to use any design or functionality from my projects, just keep my name in consideration.
+
+### Find me on
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelhem-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhem/)
+[![X](https://img.shields.io/badge/X-@username__kvothe-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/username_kvothe)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/miguelhemmm?style=social)
+
+✨ Happy Coding! ✨
 
 <!---
-miguelhemmm/miguelhemmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+miguelhemmm/miguelhemmm is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 --->
