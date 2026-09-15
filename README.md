@@ -9,7 +9,7 @@
 
 ### Tech I work with
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,vue,nodejs,express,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,angular,vue,nodejs,express,html,css,git)](https://skillicons.dev)
 
 ### What you'll find here
 
