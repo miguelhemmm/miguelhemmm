@@ -18,9 +18,6 @@ Mostly personal projects and things I build while taking courses. Nothing job re
 ### Find me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelhem-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelhem/)
-[![X](https://img.shields.io/badge/X-@username__kvothe-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/username_kvothe)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/miguelhemmm?style=social)
 
 ✨ Happy Coding! ✨
 
